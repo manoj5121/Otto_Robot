@@ -1,3 +1,5 @@
+![image alt](https://github.com/manoj5121/Otto_Robot/blob/main/Otto_Robot.jpg?raw=true)
+
 # Otto DIY Arduino Robot - Moves, Dances & Gestures
 
 This project features code and libraries for the Otto DIY robot—an open source, biped humanoid robot that can walk, dance, sing, display animated faces, and perform gestures using 4 servo motors and an optional 8x8 LED matrix.
